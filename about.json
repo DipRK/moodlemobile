@@ -1,16 +1,10 @@
 {
-"name": "Virtual Class GCI Mobile",
+"name": "Moodle Mobile",
 "license": {
     "name": "Apache 2.0",
     "link": "http://www.apache.org/licenses/LICENSE-2.0"
 },
 "credits": [
-{
-    "fullname": "Dipraj Kayastha",
-    "contribution": "Main developer",
-    "company": "Global College Internationa"
-},
-    "credits": [
 {
     "fullname": "Juan Leyva",
     "contribution": "Main developer",
@@ -135,3 +129,4 @@
 }
 ]
 }
+© 2020 GitHub, Inc.
