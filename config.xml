@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.virtualclassgci"
-        versionCode = "391"
+        versionCode = "1"
         version   = "1.1">
     <name>GCI Virtual Class Mobile</name>
 
@@ -11,12 +11,12 @@
         GCI Virtual Class Mobile official app
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://moodle.com" email="dipraj@gci.edu.np">
+        Dipraj Kayastha
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-        <string>1.15</string>
+        <string>1.1</string>
     </gap:config-file>
 
     <preference name="android-minSdkVersion" value="5" />
